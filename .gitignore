@@ -1,3 +1,5 @@
 .ropeproject/
 *.pyc
 node_modules/
+
+.idea/
